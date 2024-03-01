@@ -3,9 +3,9 @@ import Image from "next/image";
 import { Search } from "./Search";
 
 import Logo from '@/assets/logo.svg';
-import { AccountButton } from "./Buttons/AccountButton";
+import { AccountButton } from "../Buttons/AccountButton";
 import { Tabs } from "./Tabs";
-import { Container } from "./Container";
+import { Container } from "../Container";
 
 
 export const Header = () => {

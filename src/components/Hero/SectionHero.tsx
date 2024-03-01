@@ -1,14 +1,14 @@
 import Image from "next/image";
 
-import { Container } from "./Container";
+import { Container } from "../Container";
 
 import ImgAppleStore from "@/assets/btn-apple-store.svg";
 import ImgGooglePlay from "@/assets/btn-google-play.svg";
 import ArrowExplorer from "@/assets/arrow-explorer.svg";
 import Woman from "@/assets/woman.png";
-import { ImageButton } from "./Buttons/ImageButton";
+import { ImageButton } from "../Buttons/ImageButton";
 import { Title } from "./Title";
-import { KeepExploringButton } from "./Buttons/KeepExploringButton";
+import { KeepExploringButton } from "../Buttons/KeepExploringButton";
 
 export const SectionHero = () => {
   return(
