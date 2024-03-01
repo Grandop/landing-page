@@ -1,4 +1,4 @@
-## Çanding Page
+## Landing Page
 
 Simple landing page using next and tailwind
 
